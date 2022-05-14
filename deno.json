@@ -1,6 +1,5 @@
 {
   "tasks": {
-    "dev": "deno run --allow-net --no-check=remote --watch server.ts"
-  },
-  "importMap": "./importMap.json"
+    "dev": "deno run --allow-net --no-check=remote --watch server.tsx"
+  }
 }
