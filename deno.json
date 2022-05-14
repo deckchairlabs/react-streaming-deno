@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "dev": "deno run --allow-net --no-check=remote --watch server.tsx"
+    "dev": "deno run -A --no-check=remote --watch server.tsx"
   }
 }
